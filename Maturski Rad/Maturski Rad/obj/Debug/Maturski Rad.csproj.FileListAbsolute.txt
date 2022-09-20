@@ -1,0 +1,11 @@
+E:\Škola\Maturski\Maturski Rad\Maturski Rad\bin\Debug\Maturski Rad.exe.config
+E:\Škola\Maturski\Maturski Rad\Maturski Rad\bin\Debug\Maturski Rad.exe
+E:\Škola\Maturski\Maturski Rad\Maturski Rad\bin\Debug\Maturski Rad.pdb
+E:\Škola\Maturski\Maturski Rad\Maturski Rad\obj\Debug\Maturski Rad.csprojAssemblyReference.cache
+E:\Škola\Maturski\Maturski Rad\Maturski Rad\obj\Debug\Maturski_Rad.Form1.resources
+E:\Škola\Maturski\Maturski Rad\Maturski Rad\obj\Debug\Maturski_Rad.Properties.Resources.resources
+E:\Škola\Maturski\Maturski Rad\Maturski Rad\obj\Debug\Maturski Rad.csproj.GenerateResource.cache
+E:\Škola\Maturski\Maturski Rad\Maturski Rad\obj\Debug\Maturski Rad.csproj.CoreCompileInputs.cache
+E:\Škola\Maturski\Maturski Rad\Maturski Rad\obj\Debug\Maturski Rad.exe
+E:\Škola\Maturski\Maturski Rad\Maturski Rad\obj\Debug\Maturski Rad.pdb
+E:\Škola\Maturski\Maturski Rad\Maturski Rad\obj\Debug\Maturski_Rad.Form2.resources
